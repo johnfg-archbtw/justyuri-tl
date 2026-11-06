@@ -20,11 +20,11 @@ translate ptbr strings:
 
     # game/1-functions.rpy:1438
     old "Kotatsu 1"
-    new "Kotasu 1"
+    old "Kotatsu 1"
 
     # game/1-functions.rpy:1438
     old "Kotatsu 2"
-    new "Kotasu 2"
+    old "Kotatsu 2"
 
     # game/1-functions.rpy:1438
     old "Desk"
