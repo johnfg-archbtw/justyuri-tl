@@ -4,7 +4,7 @@
 translate ptbr repeat_idles_304e2ca5:
 
     # y "It seems we ran out of dialogues you haven't seen yet."
-    y "Parece que ficamos sem diálogos que você ainda não tenha visto."
+    y "Parece que... nós já conversamos sobre tudo o que tínhamos para conversar."
 
 translate ptbr strings:
 
@@ -14,7 +14,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1034
     old "Small Talk"
-    new "Conversa Fiada"
+    new "Papo Casual"
 
     # game/a_jy_dialogue_storage.rpy:1042
     old "You look nice today, [persistent.yuri_nickname]."
@@ -46,11 +46,11 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1082
     old "Do you miss me when I'm gone, [persistent.yuri_nickname]?"
-    new "Você sente minha falta quando eu saio, [persistent.yuri_nickname]?"
+    new "Você sente a minha falta quando eu não estou aqui, [persistent.yuri_nickname]?"
 
     # game/a_jy_dialogue_storage.rpy:1090
     old "What are your love preferences?"
-    new "Quais são as suas preferências no amor?"
+    new O que você mais valoriza no amor?"
 
     # game/a_jy_dialogue_storage.rpy:1098
     old "A-About placing that chocolate I put in your mouth back then..."
@@ -98,7 +98,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1162
     old "W-What are your fetishes?"
-    new "Q-quais são os seus fetiches"
+    new "Q-Quais são os seus fetiches"
 
     # game/a_jy_dialogue_storage.rpy:1162
     old "Awkward Topics"
@@ -106,7 +106,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1170
     old "What would it take for you to be real?"
-    new "O que seria necessário para você ser real?"
+    new "O que seria necessário para você se tornar real?"
 
     # game/a_jy_dialogue_storage.rpy:1178
     old "Do you play sports?"
@@ -226,7 +226,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1394
     old "Hey [persistent.yuri_nickname], have you been coding anything while I'm away?"
-    new "Ei [persistent.yuri_nickname], você esteve programando algo enquanto eu estive fora?"
+    new "Ei [persistent.yuri_nickname], você andou mexendo no código enquanto eu estive fora?"
 
     # game/a_jy_dialogue_storage.rpy:1402
     old "Hey [persistent.yuri_nickname], can you take the hdy plushie?"
@@ -314,7 +314,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1898
     old "Oh, hey, look at the time, this has been an awesome date!"
-    new "Ah, ei, olha só a hora, este encontro foi incrível!"
+    new "Ah, ei, olha como o tempo voou... o nosso encontro foi maravilhoso!"
 
     # game/a_jy_dialogue_storage.rpy:1906
     old "Oh, whoops, someone's calling me, gotta run!"
@@ -334,7 +334,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1940
     old "So long, farewell!"
-    new "Até logo, tchauzinho!"
+    new "Até logo, adeus!"
 
     # game/a_jy_dialogue_storage.rpy:1948
     old "I have to go. I already miss you!"
@@ -350,7 +350,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1973
     old "I hate having to put you through this, but it looks like it's time to say goodbye once again."
-    new "Eu odeio ter que te fazer passar por isso, mas parece que é hora de dizer adeus mais uma vez."
+    new "Eu odeio ter que te fazer passar por isso, mas parece que é hora de nos despedirmos mais uma vez."
 
     # game/a_jy_dialogue_storage.rpy:1981
     old "I have to go now, my love."
@@ -358,5 +358,5 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1989
     old "Whatever happens, just remember that there is someone who loves you no matter what."
-    new "Aconteça o que acontecer, apenas lembre-se de que há alguém que te ama, não importa o que aconteça."
+    new "Haja o que houver, só se lembre de que tem alguém que te ama incondicionalmente."
 
