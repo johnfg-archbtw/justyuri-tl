@@ -98,7 +98,7 @@ translate ptbr strings:
 
     # game/a_jy_dialogue_storage.rpy:1162
     old "W-What are your fetishes?"
-    new "Q-Quais são os seus fetiches"
+    new "Q-Quais são os seus fetiches?"
 
     # game/a_jy_dialogue_storage.rpy:1162
     old "Awkward Topics"
